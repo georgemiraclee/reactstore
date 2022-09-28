@@ -8,10 +8,10 @@ copy and paste public key api at `src/lib/commerce.js`
 export const commerce = new Commerce("PUBLIC API");
 ```
 
-## running commerce web shop
+## running Tech Store
 
 ```bash
-cd commerce-web-shop
+npm install
 npm start
 ```
 
